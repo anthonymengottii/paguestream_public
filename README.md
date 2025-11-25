@@ -183,32 +183,32 @@ O site está totalmente funcional e em produção, oferecendo:
 #### 📊 Dashboard em Tempo Real
 Visualização de todas as doações conforme chegam, com controle total sobre o que será exibido na transmissão.
 
-![Dashboard](./screenshots/dashboard.jpeg)
+![Dashboard](https://github.com/anthonymengottii/paguestream_public/raw/main/screenshots/dashboard.jpeg)
 
 #### 📈 Métricas e Analytics
 Análise completa de performance com gráficos interativos e insights sobre melhores horários e dias.
 
-![Métricas](./screenshots/metrics.png)
+![Métricas](https://github.com/anthonymengottii/paguestream_public/raw/main/screenshots/metrics.png)
 
 #### ⚙️ Configurações
 Personalização completa de widgets, alertas e checkout com interface intuitiva.
 
-![Configurações](./screenshots/settings.png)
+![Configurações](https://github.com/anthonymengottii/paguestream_public/raw/main/screenshots/settings.png)
 
 #### 📄 Validação de Documentos (KYC)
 Sistema completo de upload e validação de documentos para segurança e conformidade.
 
-![KYC](./screenshots/kyc.png)
+![KYC](https://github.com/anthonymengottii/paguestream_public/raw/main/screenshots/kyc.png)
 
 #### 🎨 Widget de Alerta
 Notificações animadas e personalizáveis que aparecem durante a transmissão ao vivo.
 
-![Widget de Alerta](./screenshots/widget-alert.png)
+![Widget de Alerta](https://github.com/anthonymengottii/paguestream_public/raw/main/screenshots/widget-alert.png)
 
 #### 📱 Widget de QR Code
 QR Code dinâmico para checkout rápido e fácil durante a transmissão.
 
-![Widget QR Code](./screenshots/widget-qrcode.png)
+![Widget QR Code](https://github.com/anthonymengottii/paguestream_public/raw/main/screenshots/widget-qrcode.png)
 
 ### Funcionalidades em Ação
 
