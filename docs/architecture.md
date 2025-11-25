@@ -143,3 +143,4 @@ components/
 - Code splitting automático (Next.js)
 - WebSocket eficiente para tempo real
 
+
